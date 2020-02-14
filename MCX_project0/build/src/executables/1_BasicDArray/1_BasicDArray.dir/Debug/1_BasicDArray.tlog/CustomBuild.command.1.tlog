@@ -1,0 +1,10 @@
+^E:\计算机\GITHUB\USTC_CG\HOMEWORKS\0_CPPPRATICES\PROJECT\SRC\EXECUTABLES\1_BASICDARRAY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/计算机/GitHub/USTC_CG/Homeworks/0_CppPratices/project -BE:/计算机/GitHub/USTC_CG/Homeworks/0_CppPratices/project/build --check-stamp-file E:/计算机/GitHub/USTC_CG/Homeworks/0_CppPratices/project/build/src/executables/1_BasicDArray/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

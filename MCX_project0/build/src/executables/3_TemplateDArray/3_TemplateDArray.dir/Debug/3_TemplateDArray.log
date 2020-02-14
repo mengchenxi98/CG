@@ -1,0 +1,13 @@
+﻿  Building Custom Rule E:/计算机/GitHub/USTC_CG/Homeworks/0_CppPratices/project/src/executables/3_TemplateDArray/CMakeLists.txt
+  DArray.cpp
+  main.cpp
+E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\DArray.h(127,16): warning C4244: “=”: 从“double”转换到“DataType”，可能丢失数据
+          with
+          [
+              DataType=int
+          ]
+E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\DArray.h(122): message : 在编译 类 模板 成员函数“void DArray<int>::SetSize(int)”时
+E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\main.cpp(35): message : 查看对正在编译的函数 模板 实例化“void DArray<int>::SetSize(int)”的引用
+E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\main.cpp(29): message : 查看对正在编译的 类 模板 实例化“DArray<int>”的引用
+  正在生成代码...
+  3_TemplateDArray.vcxproj -> E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\bin\3_TemplateDArrayd.exe

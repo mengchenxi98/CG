@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\6_UseLib\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\6_UseLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A1AA5AD0-969D-3A77-9576-9BD22770AFCF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

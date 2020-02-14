@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\DArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\DArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\计算机\GitHub\USTC_CG\Homeworks\0_CppPratices\project\src\executables\3_TemplateDArray\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{262DF8AF-8CA8-3C9D-B785-B73F7B0F715E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A1AA5AD0-969D-3A77-9576-9BD22770AFCF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
